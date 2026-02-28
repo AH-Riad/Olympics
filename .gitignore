@@ -1,3 +1,4 @@
 **/*.db
 .virtual_documents/Untitled.ipynb
 .ipynb_checkpoints/Olympic_analysis-checkpoint.ipynb
+.virtual_documents/Olympic_analysis.ipynb
